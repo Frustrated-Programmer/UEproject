@@ -47,3 +47,6 @@ For the 2019 summer DevJam.
     - Rest Note: <a href="https://pixabay.com/users/IO-Images-1096650/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">IO-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">Pixabay</a>
     - Sound Icon: <a href="https://pixabay.com/users/95C-484762/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">95C</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">Pixabay</a>
     - No Sound: Modified version of <a href="https://pixabay.com/users/95C-484762/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">95C</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">Pixabay</a>
+    - Big_Pixel_Demo Font: <a href="https://www.fontspace.com/studiotypo/big-pixel-demo">Fontspace</a>
+    - LuckiestGuy Font: <a href="https://fonts.google.com/specimen/Luckiest+Guy">Google fonts</a>
+    - Righteous Font: <a href="https://fonts.google.com/specimen/Righteous">Google Fonts</a>

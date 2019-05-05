@@ -39,3 +39,11 @@ For the 2019 summer DevJam.
  * Change camera's height depending on width/height of the level.
  * ***Possibly:*** Upgrade the logo so it looks cooler than it already is.
    
+   
+   
+   # External Content
+    - Music Note: <a href="https://pixabay.com/users/FotoshopTofs-2171839/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1275177">USER</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1275177">Pixabay</a>
+    - Controller Image: <a href="https://pixabay.com/users/IO-Images-1096650/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">IO-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">Pixabay</a>
+    - Rest Note: <a href="https://pixabay.com/users/IO-Images-1096650/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">IO-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">Pixabay</a>
+    - Sound Icon: <a href="https://pixabay.com/users/95C-484762/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">95C</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">Pixabay</a>
+    - No Sound: Modified version of <a href="https://pixabay.com/users/95C-484762/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">95C</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=937654">Pixabay</a>

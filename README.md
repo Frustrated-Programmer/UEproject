@@ -7,7 +7,6 @@ For the 2019 summer DevJam.
 
 # TODO
  * Models for:
-   - PowerPad / A pressure plate than only WHEN a player is on it does it power a gate.
    - Lever / A lever thats on directional. Can only turn off/on depending on direction player came from.
    - No-Name-Yet / A lever that turns on/off no matter where the player came from.
    - Goal / the spot where both players need to go to. (Goals do not need to be on same square.
@@ -31,8 +30,8 @@ For the 2019 summer DevJam.
    - Players moving
    - Timer counting down
    - Players spawning
-   - Buttons being clicked
-   - Buttons being hovered
+   - GUI Buttons being clicked
+   - GUI Buttons being hovered
  * ***Possibly:***  The bottom part of the logo for REFLECT have a distorted watery look so it actually looks like it's "REFLECT"ed
  * Currently the player can differentiate what powers what by a SHAPE on the pad/gate. Make custom shapes instead of using basic square/circle/stars
  * ***Possibly:*** Make the characters actually look like entities

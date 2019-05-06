@@ -16,7 +16,7 @@ For the 2019 summer DevJam.
  * GUIS
    - Menu's Background
    - Controls Gui
-   - Level Select GUI 
+   - Level Select GUI git 
    - ***Possibly:*** Better font's than what I've added.
    - ***Possibly:*** Story Gui
  * Sounds for:

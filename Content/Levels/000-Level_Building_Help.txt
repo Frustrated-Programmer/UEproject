@@ -1,0 +1,19 @@
+3 <--- Needs to be how wide the game is
+0,0,0, <--- Commas after every value
+d,X,7, <---- Anything not listed = Nothing
+0,0,0,
+0,0,0 <---- No comma on last num
+- <---- Dash to start working on other side
+0,0,W, <---- W = Wall
+0,0,S, <---- S = Spawn
+0,0,E <---- E = End
+0,0,N <---- skip the floor.
+
+
+-=-=-=-
+Power
+0,0,G1, <--- Makes a gate connected to line 1
+0,0,P1, <--- Makes a presure plate connected to line 1
+0,0,I4 <--- Makes a inverted gate connected to line 4
+0,0,l2 <--- Makes a lever connected to line 4
+(Not Case Sensitive)

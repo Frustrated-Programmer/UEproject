@@ -9,8 +9,7 @@ For the 2019 summer DevJam.
  * Models for:
    - Lever / A lever thats on directional. Can only turn off/on depending on direction player came from.
    - No-Name-Yet / A lever that turns on/off no matter where the player came from.
-   - Goal / the spot where both players need to go to. (Goals do not need to be on same square.
-   GUIS
+ *  GUIS
    - Menu's Background
    - Controls Gui
    - Level Select GUI

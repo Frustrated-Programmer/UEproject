@@ -12,8 +12,9 @@ d,X,7, <---- Anything not listed = Nothing
 
 -=-=-=-
 Power
-0,0,G1, <--- Makes a gate connected to line 1
-0,0,P1, <--- Makes a presure plate connected to line 1
-0,0,I4 <--- Makes a inverted gate connected to line 4
-0,0,l2 <--- Makes a lever connected to line 4
+0,0,G!, <--- Makes a gate connected to line 1 aka SHIFT + 1
+0,0,P2, <--- Makes a presure plate connected to line 2 aka SHIFT + 2
+0,0,I3 <--- Makes a inverted gate connected to line 3 aka SHIFT + 3
+0,0,l$ <--- Makes a lever connected to line 4 aka SHIFT + 4
+0,0,T$5 <--- makes a timere on line 4 that lasts for 5 turns.
 (Not Case Sensitive)

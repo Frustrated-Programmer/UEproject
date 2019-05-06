@@ -10,13 +10,10 @@ For the 2019 summer DevJam.
    - Lever / A lever thats on directional. Can only turn off/on depending on direction player came from.
    - No-Name-Yet / A lever that turns on/off no matter where the player came from.
    - Goal / the spot where both players need to go to. (Goals do not need to be on same square.
-   - Gates / A doorway that opens when it is powered.
-   - Start / The place where players spawn at. (Starts do not need to be on same square)
-   - Timer / When player leaves the pad it stays powered for a duration of moves.
- * GUIS
+   GUIS
    - Menu's Background
    - Controls Gui
-   - Level Select GUI git 
+   - Level Select GUI
    - ***Possibly:*** Better font's than what I've added.
    - ***Possibly:*** Story Gui
  * Sounds for:
@@ -38,8 +35,6 @@ For the 2019 summer DevJam.
  * Change camera's height depending on width/height of the level.
  * ***Possibly:*** Upgrade the logo so it looks cooler than it already is.
    
-   
-   
    # External Content
     - Music Note: <a href="https://pixabay.com/users/FotoshopTofs-2171839/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1275177">USER</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1275177">Pixabay</a>
     - Controller Image: <a href="https://pixabay.com/users/IO-Images-1096650/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">IO-Images</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1827840">Pixabay</a>
@@ -49,3 +44,4 @@ For the 2019 summer DevJam.
     - Big_Pixel_Demo Font: <a href="https://www.fontspace.com/studiotypo/big-pixel-demo">Fontspace</a>
     - LuckiestGuy Font: <a href="https://fonts.google.com/specimen/Luckiest+Guy">Google fonts</a>
     - Righteous Font: <a href="https://fonts.google.com/specimen/Righteous">Google Fonts</a>
+ 

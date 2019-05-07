@@ -16,8 +16,6 @@ For the 2019 summer DevJam.
    - Board rotating to see other side
    - Players moving
    - Timer done counting down.
-   - GUI Buttons being clicked
-   - GUI Buttons being hovered
  * ***Possibly:***  The bottom part of the logo for REFLECT have a distorted watery look so it actually looks like it's "REFLECT"ed
  * ***Possibly:*** Make the characters actually look like entities
  * ***Possibly:*** Upgrade the logo so it looks cooler than it already is.

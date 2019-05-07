@@ -8,7 +8,6 @@ For the 2019 summer DevJam.
 # TODO
  * GUIS
    - Menu's Background
-   - Controls Gui - (in progress)
    - ***Possibly:*** Better font's than what I've added.
    - ***Possibly:*** Story Gui
  * Sounds for:
@@ -16,7 +15,7 @@ For the 2019 summer DevJam.
    - When both players lands on a goal.
    - Board rotating to see other side
    - Players moving
-   - Timer counting down
+   - Timer done counting down.
    - GUI Buttons being clicked
    - GUI Buttons being hovered
  * ***Possibly:***  The bottom part of the logo for REFLECT have a distorted watery look so it actually looks like it's "REFLECT"ed

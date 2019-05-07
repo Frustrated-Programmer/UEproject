@@ -16,5 +16,10 @@ Power
 0,0,P2, <--- Makes a presure plate connected to line 2 aka SHIFT + 2
 0,0,I3 <--- Makes a inverted gate connected to line 3 aka SHIFT + 3
 0,0,l$ <--- Makes a lever connected to line 4 aka SHIFT + 4
-0,0,T$5 <--- makes a timere on line 4 that lasts for 5 turns.
+0,0,T$5 <--- makes a timer connected to line 4 that lasts for 5 turns.
 (Not Case Sensitive)
+
+Note all levels needs to be = ###.txt
+Example: level 1 = 001.txt
+Example: level 10 = 010.txt
+Example: Level 54 = 054.txt

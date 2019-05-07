@@ -6,26 +6,17 @@ A game about two entities that move as one, split apart and trying to reach each
 For the 2019 summer DevJam.
 
 # TODO
- * Models for:
-   - Lever / A lever thats on directional. Can only turn off/on depending on direction player came from.
-   - No-Name-Yet / A lever that turns on/off no matter where the player came from.
- *  GUIS
+ * GUIS
    - Menu's Background
-   - Controls Gui
-   - Level Select GUI
+   - Controls Gui - (in progress)
    - ***Possibly:*** Better font's than what I've added.
    - ***Possibly:*** Story Gui
  * Sounds for:
-   - PowerPad being pressed
-   - PowerPad being un-pressed
-   - Lever switching
-   - No-Name-Yet switching (could be same sound as lever)
    - When player lands on goal
    - When both players lands on a goal.
    - Board rotating to see other side
    - Players moving
    - Timer counting down
-   - Players spawning
    - GUI Buttons being clicked
    - GUI Buttons being hovered
  * ***Possibly:***  The bottom part of the logo for REFLECT have a distorted watery look so it actually looks like it's "REFLECT"ed
@@ -43,4 +34,6 @@ For the 2019 summer DevJam.
     - Big_Pixel_Demo Font: <a href="https://www.fontspace.com/studiotypo/big-pixel-demo">Fontspace</a>
     - LuckiestGuy Font: <a href="https://fonts.google.com/specimen/Luckiest+Guy">Google fonts</a>
     - Righteous Font: <a href="https://fonts.google.com/specimen/Righteous">Google Fonts</a>
- 
+    - Gamepad's Icons: <a href="https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack">Xelu's Free Prompt's Pack</a>
+    - Pressure plate click: Link lost currently
+    - Lever click: Link lost currently

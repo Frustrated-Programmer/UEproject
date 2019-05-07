@@ -2,14 +2,14 @@
 w,w,w,
 w,s,w,
 w,0,w,
-w,P!,w,
+w,0,w,
 w,0,w,
 w,e,w,
 w,w,w
 -
 w,w,w,
 w,s,w,
-w,p!,w,
+w,0,w,
 w,0,w,
 w,0,w,
 w,e,w,

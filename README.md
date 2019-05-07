@@ -20,9 +20,7 @@ For the 2019 summer DevJam.
    - GUI Buttons being clicked
    - GUI Buttons being hovered
  * ***Possibly:***  The bottom part of the logo for REFLECT have a distorted watery look so it actually looks like it's "REFLECT"ed
- * Currently the player can differentiate what powers what by a SHAPE on the pad/gate. Make custom shapes instead of using basic square/circle/stars
  * ***Possibly:*** Make the characters actually look like entities
- * Change camera's height depending on width/height of the level.
  * ***Possibly:*** Upgrade the logo so it looks cooler than it already is.
    
    # External Content

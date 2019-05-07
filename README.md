@@ -8,7 +8,6 @@ For the 2019 summer DevJam.
 # TODO
  * GUIS
    - Menu's Background
-   - Controls Gui - (in progress)
    - ***Possibly:*** Better font's than what I've added.
    - ***Possibly:*** Story Gui
  * Sounds for:

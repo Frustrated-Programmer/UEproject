@@ -1,4 +1,4 @@
-3 <--- Needs to be how wide the game is
+03 <--- Needs to be how wide the game is. Note: needs to be 2 digits large.
 0,0,0, <--- Commas after every value
 d,X,7, <---- Anything not listed = Nothing
 0,0,0,

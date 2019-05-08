@@ -1,0 +1,16 @@
+7
+w,w,w,w,w,w,w
+w,w,w,e,g1,s,w
+w,w,w,g2,w,0,w
+w,t/100,w,p/,w,0,w
+w,0,w,g/,w,0,w
+w,0,0,0,0,0,w
+w,w,w,w,w,w,w
+-
+w,w,w,w,w,w,w
+w,s,0,w,p2,e,w
+w,0,0,w,p/,0,w
+w,g/,w,0,w,g/,w
+w,0,0,w,w,0,w
+w,0,0,i/,0,0,w
+w,w,w,w,w,w,w

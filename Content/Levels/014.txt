@@ -1,0 +1,16 @@
+6
+w,w,w,w,w,w
+w,w,w,0,s,w
+w,p4,w,0,0,w
+w,e,w,0,0,w
+w,g1,w,w,g3,w
+w,0,t!100,i2,0,w
+w,w,w,w,w,w
+-
+w,w,w,w,w,w
+w,0,0,w,e,w
+w,0,0,w,g4,w
+w,0,0,0,0,w
+w,0,0,w,g2,w
+w,s,0,w,p1,w
+w,w,w,w,w,w

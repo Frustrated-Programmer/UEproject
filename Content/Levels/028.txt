@@ -1,0 +1,16 @@
+20
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,n,n,n,p1,n,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,e,g9,p1,s,p1,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,n,n,n,p1,n,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+-
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+n,s,n,0,0,0,n,0,i1,0,0,n,0,t@22,n,0,n,0,0,n
+n,0,n,0,l9,0,n,i1,n,n,0,g#,p#,0,n,0,i1,t#18,0,n
+n,i1,n,0,l@,0,n,g1,n,0,0,n,n,n,n,0,n,0,n,n
+n,0,n,n,g@,n,n,i1,n,0,n,n,0,0,0,0,n,g9,n,n
+n,0,0,0,0,0,0,0,n,0,0,0,0,n,n,0,n,e,n,n
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n

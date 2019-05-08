@@ -1,0 +1,16 @@
+30
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+w,0,0,0,0,0,0,0,0,0,0,0,0,w,t%10,w,w,w,w,0,0,0,0,0,w,t#10,0,w,s,w
+w,w,w,0,0,0,0,0,0,w,w,w,w,w,0,w,0,0,0,w,w,w,w,0,w,w,0,w,t"75,w
+w,e,g",0,0,0,0,0,0,w,0,0,l5,w,0,0,0,w,0,p4,g3,p2,g1,0,g&,g*,0,g@,0,w
+w,w,w,0,w,0,0,w,0,w,0,w,w,w,0,w,0,w,0,w,w,w,w,0,w,w,g#,w,0,w
+w,0,0,0,0,0,0,0,0,g5,0,g(,0,0,0,w,w,w,w,w,0,0,0,0,w,t$12,0,w,t!3,w
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+-
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w
+w,s,w,0,t&10,w,0,0,0,0,0,w,w,w,w,t(10,w,0,0,0,0,0,0,0,0,0,0,0,0,w
+w,t"75,w,0,w,w,0,w,w,w,w,0,0,0,w,0,w,w,w,w,w,0,0,0,0,0,0,w,w,w
+w,0,g!,0,g$,g#,0,p1,g2,p3,g4,0,w,0,0,0,w,0,0,0,w,0,0,0,0,0,0,g",e,w
+w,0,w,g#,w,w,0,w,w,w,w,0,w,0,w,0,w,w,w,w,w,0,0,0,0,0,0,w,w,w
+w,t@3,w,0,t*12,w,0,0,0,0,w,w,w,w,w,0,0,0,g%,0,g5,0,0,0,0,0,0,0,0,w
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w

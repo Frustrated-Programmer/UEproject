@@ -1,0 +1,16 @@
+05
+w,w,w,w,w,
+w,e,g2,s,w,
+w,w,w,0,w,
+w,0,i1,0,w,
+w,0,w,g1,w,
+w,0,l2,0,w,
+w,w,w,w,w
+-
+w,w,w,w,w,
+w,s,g1,e,w,
+w,0,w,w,w,
+w,0,i2,0,w,
+w,g2,w,0,w,
+w,0,l1,0,w,
+w,w,w,w,w

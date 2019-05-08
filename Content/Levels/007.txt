@@ -1,4 +1,4 @@
-9
+09
 w,w,w,w,w,w,w,w,w,
 w,e,w,w,w,w,w,w,w,
 w,0,0,0,w,w,w,w,w,
@@ -13,11 +13,11 @@ w,w,w,w,w,w,w,w,w
 w,w,w,w,w,w,w,w,w,
 w,w,w,w,w,w,w,w,w,
 w,0,0,0,0,0,0,0,w,
-w,0,w,w,g!,w,w,0,w,
+w,0,w,w,i!,w,w,0,w,
 w,0,w,0,0,0,w,0,w,
-w,0,g!,0,e,0,g!,0,w,
+w,0,i!,0,e,0,i!,0,w,
 w,0,w,0,0,0,w,0,w,
-w,0,w,w,g!,w,w,0,w,
+w,0,w,w,i!,w,w,0,w,
 w,0,0,0,0,0,0,s,w,
 w,w,w,w,w,w,w,w,w
 
